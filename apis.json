@@ -1,0 +1,56 @@
+{
+    "name": "OpenAPI Spec",
+    "description": "<p>The Open API Initiative (OAI) was created by a consortium of forward-looking industry experts who recognize the immense value of standardizing on how REST APIs are described. As an open governance structure under the Linux Foundation, the OAI is focused on creating, evolving and promoting a vendor neutral description format. SmartBear Software is donating the Swagger Specification directly to the OAI as the basis of this Open Specification. &nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/oai-logo.png",
+    "tags": [
+        "definitions",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openapi-spec\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenAPI Spec",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/oai-logo.png",
+            "humanURL": "https:\/\/openapis.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openapi-spec-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/openapis.org\/news-faq\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.openapis.org\/feed"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/OAI"
+        },
+        {
+            "type": "LinkedIn Group",
+            "url": "https:\/\/www.linkedin.com\/groups\/8556951"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/openapispec"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/openapis.org\/"
+        }
+    ]
+}
